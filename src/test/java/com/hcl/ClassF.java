@@ -18,5 +18,16 @@ public class ClassF {
 		System.out.println("Test3");
 
 	}
+	
+public void test4() {
+		
+		System.out.println("test4");
+
+	}
+	public void test5() {
+
+       System.out.println("test5");
+
+	}
 
 }
